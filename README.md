@@ -25,13 +25,11 @@
    - colonoscopia CDMX
    - pólipos colon CDMX
    - detección cáncer colorrectal CDMX
-
 ## SEO local
 Entidad y dirección consistente:
 Dra. Sabrina Giselle Rivera Mata
 Healthec by TecSalud
 Av. Contreras 300, San Jerónimo Lídice, La Magdalena Contreras, CDMX 10200
-
 ## Antes de publicación
 - Elegir dominio.
 - Crear canonical URLs.
